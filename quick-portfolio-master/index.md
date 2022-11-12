@@ -2,26 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Math 120 Projects
 
 [Mideterm 1](http://localhost:8888/view/Downloads/Project1%20-%20MATH120%20Aricel%20Mendez-2%20(3).html)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Midterm 2](/pdf/sample_presentation.pdf)
+[Midterm 2](http://localhost:8888/view/Downloads/Midterm%202%20-%20Math120%20(Aricel)%20(1).html)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Extras
 
-### MATH 120 
 
-- [Midterm 1 Project](http://localhost:8888/view/Downloads/Project1%20-%20MATH120%20Aricel%20Mendez-2%20(3).html)
-- [Midterm 2 project](http://localhost:8888/view/Downloads/Midterm%202%20-%20Math120%20(Aricel)%20(1).html)
 
 ---
 
