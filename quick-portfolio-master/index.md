@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-[Mideterm 1](/sample_page)
+[Mideterm 1](http://localhost:8888/view/Downloads/Project1%20-%20MATH120%20Aricel%20Mendez-2%20(3).html)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
