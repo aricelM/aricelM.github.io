@@ -17,10 +17,10 @@
 
 ---
 
-### Category Name 2
+### MATH 120 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Midterm 1 Project](file:///Users/aricelmendez/Downloads/Project1%20-%20MATH120%20Aricel%20Mendez-2%20(3).html)
+- [Midterm 2 project](file:///Users/aricelmendez/Downloads/Midterm%202%20-%20Math120%20(Aricel)%20(1).html)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
