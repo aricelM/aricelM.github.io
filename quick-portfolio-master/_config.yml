@@ -1,10 +1,10 @@
 title: Aricel Mendez # your name (or website title) here
 logo: "/images/aricle3.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br> Hi my name is Aricel<br>
-  Second description 
-  <br> I am a Fresno State Math Student <br>
+  Hi my name is Aricel Mendez. 
+  <br> <br>
+  I am a Fresno State Math Student.
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
